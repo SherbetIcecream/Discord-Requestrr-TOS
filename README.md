@@ -1,4 +1,3 @@
-# Discord-Requestrr-TOS
 Terms of Service
 
 Last Updated: July 27, 2026
